@@ -1,5 +1,5 @@
 # Plotly.js-Flask-Example
-A simple plotly.js example served by plotly's python client and flask
+A simple plotly.js example served with flask
 
 ## Usage
 
